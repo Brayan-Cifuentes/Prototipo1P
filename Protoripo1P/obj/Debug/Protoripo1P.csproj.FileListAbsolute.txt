@@ -1,0 +1,11 @@
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\Protoripo1P.exe.config
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\Protoripo1P.exe
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\Protoripo1P.pdb
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\obj\Debug\Protoripo1P.csprojAssemblyReference.cache
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\obj\Debug\Protoripo1P.Properties.Resources.resources
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\obj\Debug\Protoripo1P.csproj.GenerateResource.cache
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\obj\Debug\Protoripo1P.csproj.CoreCompileInputs.cache
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\obj\Debug\Protoripo1P.exe
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\obj\Debug\Protoripo1P.pdb
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\obj\Debug\Protoripo1P.Inventario.resources
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\obj\Debug\Protoripo1P.frmPrincipal.resources
