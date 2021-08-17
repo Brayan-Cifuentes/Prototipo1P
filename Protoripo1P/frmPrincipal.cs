@@ -38,5 +38,10 @@ namespace Protoripo1P
         {
             Environment.Exit(0);
         }
+
+        private void frmPrincipal_Load(object sender, EventArgs e)
+        {
+                
+        }
     }
 }

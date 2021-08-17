@@ -9,3 +9,17 @@ D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\obj\Debug\Protoripo1P.exe
 D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\obj\Debug\Protoripo1P.pdb
 D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\obj\Debug\Protoripo1P.Inventario.resources
 D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\obj\Debug\Protoripo1P.frmPrincipal.resources
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\MySql.Data.dll
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\Google.Protobuf.dll
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\Zstandard.Net.dll
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\Ubiety.Dns.Core.dll
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\System.Memory.dll
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\System.Buffers.dll
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\K4os.Compression.LZ4.dll
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\K4os.Hash.xxHash.dll
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\bin\Debug\MySql.Data.xml
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\obj\Debug\Protoripo1P.exe.config
+D:\Proyectos_Git_Analisis\PrimerParcial\Protoripo1P\obj\Debug\Protoripo1P.csproj.CopyComplete
